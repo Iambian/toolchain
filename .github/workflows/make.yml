@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - llvm
+      - pr/272
   pull_request:
     branches:
       - llvm
